@@ -7,14 +7,16 @@ In this user Do post and share infromation to others..
 
 ##home page 
 ![image]
-![techblog](https://user-images.githubusercontent.com/63902621/82149019-72a07200-9873-11ea-8e58-b5b88dd58236.jpg)
+![techblog]![iwtmoq0p](https://github.com/user-attachments/assets/f56f1cb3-d6be-4b1f-a987-38527d625b9e)
+)
 
 ##After User Login can see all other posts and other details (like,comment,share)
 ![image]
-![allpost](https://user-images.githubusercontent.com/63902621/82150066-792fe900-9875-11ea-9486-368474236851.jpg)
+![allpost]
 
 
-![posts](https://user-images.githubusercontent.com/63902621/82150973-b2695880-9877-11ea-8a93-e05d12facca5.gif)
+![posts]![p9e253ce](https://github.com/user-attachments/assets/db671f4e-1e6c-4b14-b234-fe13f97835d7)
+
 
 
 
