@@ -6,8 +6,10 @@ In this user Do post and share infromation to others..
 
 
 ##home page 
-![image]
-![techblog]![iwtmoq0p](https://github.com/user-attachments/assets/f56f1cb3-d6be-4b1f-a987-38527d625b9e)
+![image![v97hroag](https://github.com/user-attachments/assets/eb0595e3-55c5-45ba-9117-5c12bb6bea1e)
+]
+![techblog]![![iwtmoq0p](https://github.com/user-attachments/assets/08131090-839a-4816-af27-060713c1e630)
+)
 )
 
 ##After User Login can see all other posts and other details (like,comment,share)
@@ -15,7 +17,8 @@ In this user Do post and share infromation to others..
 ![allpost]
 
 
-![posts]![p9e253ce](https://github.com/user-attachments/assets/db671f4e-1e6c-4b14-b234-fe13f97835d7)
+![posts]![p9e253ce](https://![p9e253ce](https://github.com/user-attachments/assets/52f843fc-c71a-4a3e-8d78-0e48f176ae2b)
+)
 
 
 
